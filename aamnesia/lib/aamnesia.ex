@@ -1,0 +1,2 @@
+defmodule Aamnesia do
+end
